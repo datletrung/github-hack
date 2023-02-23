@@ -1,5 +1,5 @@
 # github-hack
-Hack GitHub Contribution Graph
+A GitHub Contribution Graph Hack that looks realistic!
 
 ### Prerequisites
 Python 3
